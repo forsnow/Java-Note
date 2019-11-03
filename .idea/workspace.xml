@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ss0MDfkUCMDqtRrxWS1DBhEvhU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30689654" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo02MethodOverloadSame">
+    <configuration name="Demo01MethodOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo04.Demo01MethodOverload" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuesong.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01MethodSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo03.Demo01MethodSame" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuesong.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02MethodOverloadSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo04.Demo02MethodOverloadSame" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuesong.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02MethodSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo03.Demo02MethodSum" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuesong.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03MethodPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo03.Demo03MethodPrint" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuesong.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo02MethodOverloadSame" />
+        <item itemvalue="Application.Demo01MethodOverload" />
+        <item itemvalue="Application.Demo03MethodPrint" />
+        <item itemvalue="Application.Demo02MethodSum" />
+        <item itemvalue="Application.Demo01MethodSame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="" />
+      <created>1572270908310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572270908310</updated>
+      <workItem from="1572270912067" duration="99000" />
+      <workItem from="1572273054048" duration="1604000" />
+      <workItem from="1572336405574" duration="267000" />
+      <workItem from="1572336956168" duration="1212000" />
+      <workItem from="1572399822073" duration="2523000" />
+      <workItem from="1572485896391" duration="72000" />
+      <workItem from="1572486055869" duration="7538000" />
+      <workItem from="1572577097985" duration="598000" />
+      <workItem from="1572673208446" duration="7423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
