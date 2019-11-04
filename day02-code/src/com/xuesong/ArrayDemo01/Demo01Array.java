@@ -23,6 +23,8 @@ public class Demo01Array {
         int score3 = 91;
 
         int[] score = new int[3];
+        double[] Array2 = new double[4];
+        String[] Array3 = new String[5];
 
 
     }

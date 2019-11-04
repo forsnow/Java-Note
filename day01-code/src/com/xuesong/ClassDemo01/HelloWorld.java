@@ -1,4 +1,4 @@
-package com.xuesong.demo01;
+package com.xuesong.ClassDemo01;
 
 public class HelloWorld {
     public static void main(String[] args) {
