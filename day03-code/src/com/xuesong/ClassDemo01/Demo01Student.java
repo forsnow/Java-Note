@@ -15,8 +15,8 @@ package com.xuesong.ClassDemo01;
 *
 * */
 public class Demo01Student {
-    private String name;
-    private int age;
+    public String name;
+    public int age;
 
     public void eat(){
         System.out.println("eat");

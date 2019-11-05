@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo02Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo03Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo04ArrayUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo05ArrayUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo06ArrayNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo07ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo08ArrayPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo09ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo10ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo11ArrayParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo12ArrayReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/day03-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo01Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="class">
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo02StudentUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo03Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo04PhoneUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo05PhoneParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo06PhoneReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo07VariableDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo08Private.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo09PrivateUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01-code/src/com/xuesong/demo01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01-code/src/com/xuesong/ClassDemo01/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo01Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo01Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo01Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day03-code/src/com/xuesong/ClassDemo01/Demo01Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,13 +61,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo12ArrayReturn">
-    <configuration name="Demo08ArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.ArrayDemo01.Demo08ArrayPrint" />
-      <module name="day02-code" />
+  <component name="RunManager" selected="Application.Demo09PrivateUse">
+    <configuration name="Demo02StudentUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.ClassDemo01.Demo02StudentUse" />
+      <module name="day03-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.ArrayDemo01.*" />
+          <option name="PATTERN" value="com.xuesong.ClassDemo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo09ArrayMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.ArrayDemo01.Demo09ArrayMax" />
-      <module name="day02-code" />
+    <configuration name="Demo04PhoneUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.ClassDemo01.Demo04PhoneUse" />
+      <module name="day03-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.ArrayDemo01.*" />
+          <option name="PATTERN" value="com.xuesong.ClassDemo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo10ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.ArrayDemo01.Demo10ArrayReverse" />
-      <module name="day02-code" />
+    <configuration name="Demo05PhoneParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.ClassDemo01.Demo05PhoneParam" />
+      <module name="day03-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.ArrayDemo01.*" />
+          <option name="PATTERN" value="com.xuesong.ClassDemo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo11ArrayParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.ArrayDemo01.Demo11ArrayParam" />
-      <module name="day02-code" />
+    <configuration name="Demo06PhoneReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.ClassDemo01.Demo06PhoneReturn" />
+      <module name="day03-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.ArrayDemo01.*" />
+          <option name="PATTERN" value="com.xuesong.ClassDemo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo12ArrayReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.ArrayDemo01.Demo12ArrayReturn" />
-      <module name="day02-code" />
+    <configuration name="Demo09PrivateUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.ClassDemo01.Demo09PrivateUse" />
+      <module name="day03-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.ArrayDemo01.*" />
+          <option name="PATTERN" value="com.xuesong.ClassDemo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo12ArrayReturn" />
-        <item itemvalue="Application.Demo11ArrayParam" />
-        <item itemvalue="Application.Demo10ArrayReverse" />
-        <item itemvalue="Application.Demo09ArrayMax" />
-        <item itemvalue="Application.Demo08ArrayPrint" />
+        <item itemvalue="Application.Demo09PrivateUse" />
+        <item itemvalue="Application.Demo06PhoneReturn" />
+        <item itemvalue="Application.Demo05PhoneParam" />
+        <item itemvalue="Application.Demo04PhoneUse" />
+        <item itemvalue="Application.Demo02StudentUse" />
       </list>
     </recent_temporary>
   </component>
@@ -166,8 +158,17 @@
       <workItem from="1572673208446" duration="7423000" />
       <workItem from="1572759482142" duration="6205000" />
       <workItem from="1572797585099" duration="851000" />
-      <workItem from="1572863375065" duration="2511000" />
+      <workItem from="1572863375065" duration="3891000" />
+      <workItem from="1572963897157" duration="4897000" />
     </task>
+    <task id="LOCAL-00001" summary="class">
+      <created>1572872045193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572872045193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,5 +186,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="class" />
+    <option name="LAST_COMMIT_MESSAGE" value="class" />
   </component>
 </project>
