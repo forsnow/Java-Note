@@ -1,8 +1,8 @@
 package com.xuesong.ClassDemo01;
 
-public class PersonUse {
+public class PersonThisUse {
     public static void main(String[] args) {
-        Person person = new Person();
+        PersonThis person = new PersonThis();
         person.name = "xuesong";
         person.sayHello("Kobe");
     }

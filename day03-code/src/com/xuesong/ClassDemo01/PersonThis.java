@@ -10,7 +10,7 @@ package com.xuesong.ClassDemo01;
 *
 *
 * */
-public class Person {
+public class PersonThis {
     String name;
 
     //成员变量name是自己的名字
