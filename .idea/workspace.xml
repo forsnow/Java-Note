@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="2019-11-08">
-      <change afterPath="$PROJECT_DIR$/day04-code/day04-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo01/Demo01Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo01/Demo02ScannerSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo01/Demo03ScannerMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo01/Demo04Anoymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo01/Demo05Anoymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo01/Demo05Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo02/Demo01ArrayPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo02/Demo02ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo02/Demo03ArrayListMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo02/Demo04ArrayListEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo02/Person.java" afterDir="false" />
+    <list default="true" id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo02/Demo05ArrayListBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo01ArrayListRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo02ArrayListStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo03ArrayListPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo04ArrayListReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code(String)/day05-code(String).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code(String)/src/com/xuesong/demo01/Demo01String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code(String)/src/com/xuesong/demo01/Demo02StringPool.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo01Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02-code/src/com/xuesong/ArrayDemo01/Demo01Array.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo04ArrayListEach">
-    <configuration name="Demo01ArrayPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo02.Demo01ArrayPerson" />
-      <module name="day04-code" />
+  <component name="RunManager" selected="Application.Demo02StringPool">
+    <configuration name="Demo01String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo01.Demo01String" />
+      <module name="day05-code(String)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo02.*" />
+          <option name="PATTERN" value="com.xuesong.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo02.Demo02ArrayList" />
+    <configuration name="Demo02ArrayListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo03.Demo02ArrayListStudent" />
       <module name="day04-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo02.*" />
+          <option name="PATTERN" value="com.xuesong.Demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03ArrayListMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo02.Demo03ArrayListMethod" />
-      <module name="day04-code" />
+    <configuration name="Demo02StringPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo01.Demo02StringPool" />
+      <module name="day05-code(String)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo02.*" />
+          <option name="PATTERN" value="com.xuesong.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04ArrayListEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo02.Demo04ArrayListEach" />
+    <configuration name="Demo03ArrayListPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo03.Demo03ArrayListPrint" />
       <module name="day04-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo02.*" />
+          <option name="PATTERN" value="com.xuesong.Demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo01.Demo05Random" />
+    <configuration name="Demo04ArrayListReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo03.Demo04ArrayListReturn" />
       <module name="day04-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo02.*" />
+          <option name="PATTERN" value="com.xuesong.Demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo04ArrayListEach" />
-        <item itemvalue="Application.Demo03ArrayListMethod" />
-        <item itemvalue="Application.Demo02ArrayList" />
-        <item itemvalue="Application.Demo01ArrayPerson" />
-        <item itemvalue="Application.Demo05Random" />
+        <item itemvalue="Application.Demo02StringPool" />
+        <item itemvalue="Application.Demo01String" />
+        <item itemvalue="Application.Demo04ArrayListReturn" />
+        <item itemvalue="Application.Demo03ArrayListPrint" />
+        <item itemvalue="Application.Demo02ArrayListStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +163,8 @@
       <workItem from="1572963897157" duration="6672000" />
       <workItem from="1573029373947" duration="16615000" />
       <workItem from="1573437381256" duration="4840000" />
-      <workItem from="1573731329459" duration="5380000" />
+      <workItem from="1573731329459" duration="10625000" />
+      <workItem from="1574592699249" duration="5629000" />
     </task>
     <task id="LOCAL-00001" summary="class">
       <created>1572872045193</created>
@@ -197,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573040883656</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2019-11-19">
+      <created>1574167857050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574167857050</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +224,18 @@
     <MESSAGE value="class" />
     <MESSAGE value="2019-11-06" />
     <MESSAGE value="2019-11-08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-11-08" />
+    <MESSAGE value="2019-11-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-11-19" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo03ArrayListPrint.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
