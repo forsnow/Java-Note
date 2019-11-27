@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo02/Demo05ArrayListBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo01ArrayListRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo02ArrayListStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo03ArrayListPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Demo04ArrayListReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04-code/src/com/xuesong/Demo03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-code(String)/day05-code(String).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-code(String)/src/com/xuesong/demo01/Demo01String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05-code(String)/src/com/xuesong/demo01/Demo02StringPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7467e4e9-e5e5-4a4b-99c4-60218d122d7e" name="Default Changelist" comment="2019-11-25">
+      <change afterPath="$PROJECT_DIR$/day05-code(String)/src/com/xuesong/demo03/Demo01StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05-code(String)/src/com/xuesong/demo03/Demo02StringCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +40,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30689654" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo02StringPool">
-    <configuration name="Demo01String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo01.Demo01String" />
+  <component name="RunManager" selected="Application.Demo02StringCount">
+    <configuration name="Demo01StringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo03.Demo01StringPractice" />
       <module name="day05-code(String)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.demo01.*" />
+          <option name="PATTERN" value="com.xuesong.demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,25 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02ArrayListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo03.Demo02ArrayListStudent" />
-      <module name="day04-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02StringPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo01.Demo02StringPool" />
+    <configuration name="Demo02StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo03.Demo02StringCount" />
       <module name="day05-code(String)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.demo01.*" />
+          <option name="PATTERN" value="com.xuesong.demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03ArrayListPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo03.Demo03ArrayListPrint" />
-      <module name="day04-code" />
+    <configuration name="Demo03SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo02.Demo03SubString" />
+      <module name="day05-code(String)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo03.*" />
+          <option name="PATTERN" value="com.xuesong.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04ArrayListReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuesong.Demo03.Demo04ArrayListReturn" />
-      <module name="day04-code" />
+    <configuration name="Demo04StringConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo02.Demo04StringConvert" />
+      <module name="day05-code(String)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuesong.Demo03.*" />
+          <option name="PATTERN" value="com.xuesong.demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuesong.demo02.Demo05StringSplit" />
+      <module name="day05-code(String)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuesong.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo02StringPool" />
-        <item itemvalue="Application.Demo01String" />
-        <item itemvalue="Application.Demo04ArrayListReturn" />
-        <item itemvalue="Application.Demo03ArrayListPrint" />
-        <item itemvalue="Application.Demo02ArrayListStudent" />
+        <item itemvalue="Application.Demo02StringCount" />
+        <item itemvalue="Application.Demo01StringPractice" />
+        <item itemvalue="Application.Demo05StringSplit" />
+        <item itemvalue="Application.Demo04StringConvert" />
+        <item itemvalue="Application.Demo03SubString" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +156,10 @@
       <workItem from="1573029373947" duration="16615000" />
       <workItem from="1573437381256" duration="4840000" />
       <workItem from="1573731329459" duration="10625000" />
-      <workItem from="1574592699249" duration="5629000" />
+      <workItem from="1574592699249" duration="5835000" />
+      <workItem from="1574748650977" duration="1049000" />
+      <workItem from="1574821062061" duration="1803000" />
+      <workItem from="1574859559260" duration="6877000" />
     </task>
     <task id="LOCAL-00001" summary="class">
       <created>1572872045193</created>
@@ -201,7 +196,35 @@
       <option name="project" value="LOCAL" />
       <updated>1574167857050</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2019-11-25">
+      <created>1574614570335</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574614570335</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2019-11-25">
+      <created>1574614646192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574614646192</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2019-11-25">
+      <created>1574614698165</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574614698165</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2019-11-27">
+      <created>1574867192104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574867192104</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +248,9 @@
     <MESSAGE value="2019-11-06" />
     <MESSAGE value="2019-11-08" />
     <MESSAGE value="2019-11-19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-11-19" />
+    <MESSAGE value="2019-11-25" />
+    <MESSAGE value="2019-11-27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-11-27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
