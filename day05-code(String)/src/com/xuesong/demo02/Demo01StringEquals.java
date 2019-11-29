@@ -3,7 +3,7 @@ package com.xuesong.demo02;
 * ==是对象地址值的比较，如果确实需要字符串的内容比较，可以使用两个方法
 *
 * public boolean equals(Object obj)
-* 参数可以是任何对象，只有参数是一个字符串并且内容相同的才会给true，佛祖返回false
+* 参数可以是任何对象，只有参数是一个字符串并且内容相同的才会给true，否则返回false
 * 备注：
 * 1.任何对象都能使用object进行接受
 * 2.equals方法具有对称性，也就是a.equals(b)和b.equals(a)效果一样
